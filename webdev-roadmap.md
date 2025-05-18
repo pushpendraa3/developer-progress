@@ -19,43 +19,39 @@ Build frontend skills → backend skills → full-stack confidence → web3 tran
 
 ## 🔰 Level 1: Frontend Foundations & Confidence Builders (Days 1–30)
 
-| Day | Task |
-| --- | ---- |
-| [ ] | Build: Dark/Light Toggle Button |
-| [ ] | Build: Digital Clock |
-| [ ] | Build: Click Counter with + / - / Reset |
-| [ ] | Build: Random Color Generator |
-| [ ] | Build: Simple Calculator |
-| [ ] | Build: Tip Calculator |
-| [ ] | Build: Form with JS Validation (email/password) |
-| [ ] | Build: Accordion (Expand/Collapse Items) |
-| [ ] | Build: Modal Popup |
-| [ ] | Build: Image Slider/Carousel |
-| [ ] | Build: LocalStorage-based To-Do List |
-| [ ] | Build: Tabbed Interface (Profile, Settings, etc.) |
-| [ ] | Build: Joke Generator using an API |
-| [ ] | Reflect: Which 2 projects were hardest? Push to GitHub |
-| [ ] | Build: Expense Tracker (JS + LocalStorage) |
-| [ ] | Build: Weather App using OpenWeatherMap API |
-| [ ] | Build: Responsive Navbar (Hamburger for mobile) |
-| [ ] | Build: Responsive Portfolio Homepage |
-| [ ] | Build: Random Password Generator |
-| [ ] | Build: Quiz App (score + correct answer display) |
-| [ ] | Build: Stopwatch / Countdown Timer |
-| [ ] | Polish: Style & refactor 2 old projects |
-| [ ] | Build: Markdown Viewer |
-| [ ] | Build: Image Gallery (grid + lightbox popup) |
-| [ ] | Build: Pomodoro Timer with Sound |
-| [ ] | Plan: Portfolio site with Projects, About, Contact |
-| [ ] | Build: Full Portfolio Website (HTML/CSS only) |
-| [ ] | Make it mobile-responsive |
-| [ ] | Deploy to Netlify or GitHub Pages |
-| [ ] | Journal: What I can now build without searching? |
-| [ ] | Build: Wallet Address Formatter |
-| [ ] | Build: Fiat to Crypto Converter (CoinGecko API) |
-| [ ] | Build: Transaction History Viewer (mock data) |
-
----
+[ ] Build: Dark/Light Toggle Button  
+[ ] Build: Digital Clock  
+[ ] Build: Click Counter with + / - / Reset  
+[ ] Build: Random Color Generator  
+[ ] Build: Simple Calculator  
+[ ] Build: Tip Calculator  
+[ ] Build: Form with JS Validation (email/password)  
+[ ] Build: Accordion (Expand/Collapse Items)  
+[ ] Build: Modal Popup  
+[ ] Build: Image Slider/Carousel  
+[ ] Build: LocalStorage-based To-Do List  
+[ ] Build: Tabbed Interface (Profile, Settings, etc.)  
+[ ] Build: Joke Generator using an API  
+[ ] Reflect: Which 2 projects were hardest? Push to GitHub  
+[ ] Build: Expense Tracker (JS + LocalStorage)  
+[ ] Build: Weather App using OpenWeatherMap API  
+[ ] Build: Responsive Navbar (Hamburger for mobile)  
+[ ] Build: Responsive Portfolio Homepage  
+[ ] Build: Random Password Generator  
+[ ] Build: Quiz App (score + correct answer display)  
+[ ] Build: Stopwatch / Countdown Timer  
+[ ] Polish: Style & refactor 2 old projects  
+[ ] Build: Markdown Viewer  
+[ ] Build: Image Gallery (grid + lightbox popup)  
+[ ] Build: Pomodoro Timer with Sound  
+[ ] Plan: Portfolio site with Projects, About, Contact  
+[ ] Build: Full Portfolio Website (HTML/CSS only)  
+[ ] Make it mobile-responsive  
+[ ] Deploy to Netlify or GitHub Pages  
+[ ] Journal: What I can now build without searching?  
+[ ] Build: Wallet Address Formatter  
+[ ] Build: Fiat to Crypto Converter (CoinGecko API)  
+[ ] Build: Transaction History Viewer (mock data)  
 
 ## ⚛️ Level 2: Intermediate Frontend + React (Days 31–45)
 
