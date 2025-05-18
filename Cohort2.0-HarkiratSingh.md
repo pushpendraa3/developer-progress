@@ -38,6 +38,9 @@
 - [ ] Project: Paytm Frontend
 - [ ] ZTM Frontend Performance
 
+## Major Project
+- [ ] Exchange project
+
 ## Week 0 - Warming up
 - [x] SS Intro, Setting up your IDE
 - [x] SS HTML Basics (Tags and Attributes)
