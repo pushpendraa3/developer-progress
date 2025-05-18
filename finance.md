@@ -8,7 +8,7 @@
 
 ## ✅ Progress Tracker
 
-> 🟩 Completed Weeks: **0 / 8**  
+> 🟩 Completed Weeks: **5 / 8**  
 > 📊 Progress: ![0%](https://progress-bar.dev/0/)
 
 _Update the numbers above manually as you progress._
