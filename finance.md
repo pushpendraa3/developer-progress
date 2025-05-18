@@ -1,125 +1,172 @@
-# 💸 Finance + Economics Learning Roadmap (For Web Developers)
+# 📘 Finance to DeFi Pro: 8-Week Intensive Plan
 
-## 🎯 Goal
-Learn financial markets, instruments, trading, economics, fintech, and DeFi — all tailored for a developer mindset.
+**Goal:** Master finance fundamentals to prepare for deep DeFi understanding.  
+**Assumption:** You already know full-stack (MERN) and will learn blockchain after this.  
+**Schedule:** ~1.5–2 hours/day (10–14 hrs/week)
 
 ---
 
 ## ✅ Progress Tracker
-```
-[ ] Level 1: Financial Basics & Personal Finance
-[ ] Level 2: Financial Markets & Instruments
-[ ] Level 3: Economics for Developers
-[ ] Level 4: Algorithmic + Automated Trading
-[ ] Level 5: DeFi Deep Dive
-[ ] Level 6: Project Portfolio + Case Studies
-```
+
+> 🟩 Completed Weeks: **0 / 8**  
+> 📊 Progress: ![0%](https://progress-bar.dev/0/)
+
+_Update the numbers above manually as you progress._
 
 ---
 
-## 📘 Level 1: Financial Basics & Personal Finance
+## 📅 Week 1: Introduction to Money & Financial Systems
 
-- [ ] What is Money? (History, Functions, Fiat vs Crypto)
-- [ ] Budgeting & Saving: Emergency Fund, 50/30/20 Rule
-- [ ] Interest, Inflation, Deflation: Basics of Value Over Time
-- [ ] Understanding Taxes & Debt (Credit, Loans, APR)
-- [ ] Compound Interest & Time Value of Money (TVM)
-- [ ] Personal Investing: Stocks, ETFs, Robo-Advisors
-- [ ] Tools: Mint, YNAB, Personal Capital
+### 📘 Topics
+- [ ] What is Money? Properties, History, Evolution
+- [ ] Barter to Fiat to Digital Money
+- [ ] Inflation, Deflation, Hyperinflation
+- [ ] Banking: Commercial vs Central Banks
+- [ ] Fractional Reserve Banking
 
-### Project Ideas
-- [ ] Simple Budget Tracker
-- [ ] Compound Interest Calculator
-- [ ] Savings Goal Planner App
+### 📚 Resources
+- [ ] Khan Academy: Banking & Money
+- [ ] Ray Dalio – "How the Economic Machine Works"
+- [ ] Book: "The Psychology of Money" (start)
 
----
-
-## 📊 Level 2: Financial Markets & Instruments
-
-- [ ] Stock Markets: NYSE, NASDAQ, S&P 500
-- [ ] Bonds, ETFs, Mutual Funds
-- [ ] Derivatives: Options, Futures, Swaps
-- [ ] Forex: Currency Trading Basics
-- [ ] Cryptocurrency Overview: Bitcoin, Ethereum, Altcoins
-- [ ] Market Orders vs Limit Orders
-- [ ] Risk Management: Diversification, Volatility
-
-### Resources
-- [ ] Investopedia: https://www.investopedia.com
-- [ ] Khan Academy: Finance & Capital Markets
-- [ ] Book: "The Intelligent Investor" by Benjamin Graham
-
-### Project Ideas
-- [ ] Stock Price Dashboard (Yahoo Finance API)
-- [ ] ETF Screener App
-- [ ] Crypto Price Chart App
+### 💻 Project
+- [ ] Write an illustrated blog post: "History of Money to Banking in Simple Terms"
 
 ---
 
-## 📉 Level 3: Economics for Developers
+## 📅 Week 2: Financial Markets & Instruments
 
-- [ ] Microeconomics: Supply & Demand, Elasticity
-- [ ] Macroeconomics: GDP, Unemployment, CPI
-- [ ] Central Banks & Interest Rates
-- [ ] Business Cycles & Recessions
-- [ ] Monetary vs Fiscal Policy
-- [ ] Currency Devaluation, Hyperinflation
-- [ ] Case Studies: 2008 Crisis, COVID-19 Market Impact
+### 📘 Topics
+- [ ] Stock Markets: Exchanges, Brokers, IPOs
+- [ ] Bonds, Mutual Funds, ETFs
+- [ ] Risk vs Return, Time Horizon, Liquidity
+- [ ] Intro to Derivatives
 
-### Resources
-- [ ] Ray Dalio's Economic Principles (YouTube)
-- [ ] Khan Academy: Economics
-- [ ] Book: "Basic Economics" by Thomas Sowell
+### 📚 Resources
+- [ ] Khan Academy: Stocks & Bonds
+- [ ] Investopedia: Derivatives Primer
+- [ ] Book: "The Psychology of Money" (finish)
 
----
-
-## 📈 Level 4: Algorithmic + Automated Trading
-
-- [ ] What is Algorithmic Trading?
-- [ ] Market Data APIs (Alpha Vantage, Yahoo, Polygon)
-- [ ] Trading Strategies: Moving Average, RSI, MACD
-- [ ] Backtesting with Historical Data
-- [ ] Simulated Trading Platforms (paper trading)
-- [ ] Bot Logic: Entry/Exit Rules, Stop-Loss
-- [ ] Risk Management with Code
-
-### Tools
-- [ ] Node.js / Python / JavaScript
-- [ ] TradingView Pine Script (basic intro)
-- [ ] Alpaca, Binance API
-
-### Projects
-- [ ] Build a Trading Bot with Rules Engine
-- [ ] Price Alert Notifier App
-- [ ] Paper Trading Dashboard
+### 💻 Project
+- [ ] Create a simple financial instrument guide (HTML page or Notion doc)
 
 ---
 
-## 🌐 Level 5: DeFi Deep Dive
+## 📅 Week 3: Corporate Finance & Accounting Basics
 
-- [ ] What is DeFi? History + Goals
-- [ ] DEX vs CEX
-- [ ] AMM Protocols: Uniswap, Balancer, Curve
-- [ ] Lending Protocols: Aave, Compound
-- [ ] Yield Farming + Liquidity Mining
-- [ ] Flash Loans: How they work
-- [ ] Staking, Governance, DAO basics
+### 📘 Topics
+- [ ] Income Statement, Balance Sheet, Cash Flow
+- [ ] Profit, Loss, Assets, Liabilities, Equity
+- [ ] Financial Ratios (P/E, ROE, Debt/Equity)
+- [ ] Fundamentals of Valuation (DCF basics)
 
-### Projects
-- [ ] DeFi Protocol Dashboard (Top 5 tokens)
-- [ ] APR Calculator for Yield Farming
-- [ ] Simulate Token Swap via Uniswap SDK
-- [ ] DAO Voting Interface
+### 📚 Resources
+- [ ] AccountingStuff YouTube Channel
+- [ ] Book: "Rich Dad Poor Dad"
+- [ ] Coursera: Intro to Financial Accounting (Wharton)
+
+### 💻 Project
+- [ ] Analyze a public company using its financial statements
+
+---
+
+## 📅 Week 4: Time Value of Money + Interest Rates
+
+### 📘 Topics
+- [ ] Simple vs Compound Interest
+- [ ] Present Value & Future Value
+- [ ] NPV, IRR, Discount Rate
+- [ ] Bonds Pricing
+
+### 📚 Resources
+- [ ] Khan Academy: Time Value of Money
+- [ ] Book: "Money Master the Game" (start)
+- [ ] YouTube: Two Cents – Interest Rate Explained
+
+### 💻 Project
+- [ ] Build a TVM calculator (React or Node CLI)
 
 ---
 
-## 🧠 Level 6: Final Projects + Case Studies
+## 📅 Week 5: Credit, Debt & Lending Systems
 
-- [ ] Recreate: Robinhood UI Clone
-- [ ] Build: Personal Investment Tracker (multi asset)
-- [ ] Create: FinTech SaaS MVP
-- [ ] Analyze: Terra/LUNA collapse or FTX crash
-- [ ] Write: Blog Post on DeFi vs TradFi comparison
+### 📘 Topics
+- [ ] Credit Scores, Loans, Mortgages
+- [ ] Collateral, Risk Management
+- [ ] Lending Curve & Interest Spreads
+- [ ] P2P Lending Model
+
+### 📚 Resources
+- [ ] Khan Academy: Credit & Loans
+- [ ] Coursera: Economics of Money and Banking
+- [ ] Book: "Debt: The First 5,000 Years" (skim)
+
+### 💻 Project
+- [ ] Visualize how credit risk changes lending rates (small interactive dashboard)
 
 ---
+
+## 📅 Week 6: Macroeconomics + Central Bank Tools
+
+### 📘 Topics
+- [ ] Monetary Policy: Inflation Targeting, QE, QT
+- [ ] Fiscal Policy: Government Spending & Taxation
+- [ ] Interest Rates & Economic Growth
+- [ ] Business Cycles & Recession
+
+### 📚 Resources
+- [ ] Ray Dalio's YouTube Playlist
+- [ ] Khan Academy: Macroeconomics
+- [ ] Book: "Economics in One Lesson"
+
+### 💻 Project
+- [ ] Create a timeline: US Recessions vs Policy Responses (PDF/Notion)
+
+---
+
+## 📅 Week 7: Financial Risks & Investment Strategies
+
+### 📘 Topics
+- [ ] Market Risk, Credit Risk, Liquidity Risk
+- [ ] Diversification & Portfolio Theory
+- [ ] Asset Allocation Models
+- [ ] Investment Psychology
+
+### 📚 Resources
+- [ ] Morningstar Academy
+- [ ] Book: "Unshakeable" by Tony Robbins
+- [ ] Investopedia: Types of Investment Risk
+
+### 💻 Project
+- [ ] Design a mock diversified portfolio with allocation logic
+
+---
+
+## 📅 Week 8: DeFi Finance Readiness
+
+### 📘 Topics
+- [ ] Lending & Borrowing (Traditional vs DeFi)
+- [ ] Interest Rates in DeFi (APR vs APY)
+- [ ] Liquidity Pools vs Order Books
+- [ ] Collateralization & Liquidation
+
+### 📚 Resources
+- [ ] Finematics YouTube: DeFi Concepts
+- [ ] DeFi Rate: Understanding APY/APR
+- [ ] WhiteboardCrypto: Yield Farming & TVL
+
+### 💻 Project
+- [ ] Compare 3 DeFi protocols on lending models in a blog post
+
+---
+
+## 🎓 Final Outcome
+
+After this 8-week sprint, you will:
+- ✅ Understand traditional financial systems
+- ✅ Build useful financial calculators
+- ✅ Explain core macro/microeconomic forces
+- ✅ Be 100% ready to jump into DeFi and blockchain protocols
+
+
 
