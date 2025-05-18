@@ -7,28 +7,28 @@ Build frontend skills → backend skills → full-stack confidence → web3 tran
 
 ## ✅ Progress Tracker
 
-```
-[ ] Level 1: Frontend Foundations
-[ ] Level 2: Intermediate Frontend + React
-[ ] Level 3: Backend Basics
-[ ] Level 4: Final Fullstack Projects
-[ ] Level 5: Web3 + DeFi Fundamentals
-```
+
+- [ ] Level 1: Frontend Foundations (Days 1–30)
+- [ ] Level 2: Intermediate Frontend + React (Days 31–45)
+- [ ] Level 3: Backend Basics (Days 46–70)
+- [ ] Level 4: Final Fullstack Projects (Days 71–90)
+- [ ] Level 5: Web3 + DeFi Fundamentals (Post-90 Days)
+
 
 ---
 
 ## 🔰 Level 1: Frontend Foundations & Confidence Builders (Days 1–30)
 
-- [ ] Build: Dark/Light Toggle Button  
-- [ ] Build: Digital Clock  
-- [ ] Build: Click Counter with + / - / Reset  
-- [ ] Build: Random Color Generator  
-- [ ] Build: Simple Calculator  
-- [ ] Build: Tip Calculator  
+- [x] Build: Dark/Light Toggle Button  
+- [x] Build: Digital Clock  
+- [x] Build: Click Counter with + / - / Reset  
+- [x] Build: Random Color Generator  
+- [x] Build: Simple Calculator  
+- [x] Build: Tip Calculator  
 - [ ] Build: Form with JS Validation (email/password)  
-- [ ] Build: Accordion (Expand/Collapse Items)  
+- [x] Build: Accordion (Expand/Collapse Items)  
 - [ ] Build: Modal Popup  
-- [ ] Build: Image Slider/Carousel  
+- [x] Build: Image Slider/Carousel  
 - [ ] Build: LocalStorage-based To-Do List  
 - [ ] Build: Tabbed Interface (Profile, Settings, etc.)  
 - [ ] Build: Joke Generator using an API  
@@ -36,18 +36,18 @@ Build frontend skills → backend skills → full-stack confidence → web3 tran
 - [ ] Build: Expense Tracker (JS + LocalStorage)  
 - [ ] Build: Weather App using OpenWeatherMap API  
 - [ ] Build: Responsive Navbar (Hamburger for mobile)  
-- [ ] Build: Responsive Portfolio Homepage  
-- [ ] Build: Random Password Generator  
+- [x] Build: Responsive Portfolio Homepage  
+- [x] Build: Random Password Generator  
 - [ ] Build: Quiz App (score + correct answer display)  
 - [ ] Build: Stopwatch / Countdown Timer  
 - [ ] Polish: Style & refactor 2 old projects  
 - [ ] Build: Markdown Viewer  
 - [ ] Build: Image Gallery (grid + lightbox popup)  
 - [ ] Build: Pomodoro Timer with Sound  
-- [ ] Plan: Portfolio site with Projects, About, Contact  
-- [ ] Build: Full Portfolio Website (HTML/CSS only)  
-- [ ] Make it mobile-responsive  
-- [ ] Deploy to Netlify or GitHub Pages  
+- [x] Plan: Portfolio site with Projects, About, Contact  
+- [x] Build: Full Portfolio Website (HTML/CSS only)  
+- [x] Make it mobile-responsive  
+- [x] Deploy to Netlify or GitHub Pages  
 - [ ] Journal: What I can now build without searching?  
 - [ ] Build: Wallet Address Formatter  
 - [ ] Build: Fiat to Crypto Converter (CoinGecko API)  
