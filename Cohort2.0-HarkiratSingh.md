@@ -1,5 +1,13 @@
 # 🌐 Harkirat Singh Web Development Full Course Checklist
 
+## Shortest Route
+- [ ] todo - JS
+- [ ] todo - React
+- [ ] todo - Backend
+- [ ] study - TS, Postgress, Prisma
+- [ ] Medium MERN
+- [ ] Ecommerce
+
 ## JS Practice
 - [ ] 1
 - [ ] 2
