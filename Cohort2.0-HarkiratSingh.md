@@ -54,7 +54,7 @@
 - [x] SS HTML Basics (Tags and Attributes)
 - [x] SS CSS Basics
 
-## Week 1
+## Week 1 (skip)
 - [x] SS Week 1.1 | Orientation class
 - [ ] SS Week 1.2 | JS Foundation
 - [x] SS Week 1.3 | How to solve assignments
@@ -63,7 +63,7 @@
 - [ ] SS 1.5 | Async, Await and Promises
 - [ ] SS 1.6 | Notes
 
-## Week 2
+## Week 2 (skip)
 - [ ] SS 2.1 | Revision of Promises, Async JS
 - [ ] SS 2.2 | Session
 - [ ] 2.3 | Bash and terminal
@@ -72,7 +72,7 @@
 - [ ] SS 2.6 | filter, map, arrow fns
 - [ ] 2.7 | Git/github
 
-## Week 3
+## Week 3 (3 lectures)
 - [ ] SS 3.0.1 | What we're covering in week 3
 - [ ] SS 3.0.2 | JS Foundation revision
 - [ ] SS 3.0.3 | Node.js runtime
@@ -92,20 +92,20 @@
 - [ ] SS 3.2 | Databases And Authentication (Local Recording)
 - [ ] SS 3.3 | Databases And Authentication (Local Recording)
 
-## Week 4
+## Week 4 (3 lectures)
 - [ ] SS 4.1 | DOM Introduction
 - [ ] SS 4.2 | React foundation
 - [ ] SS 4.3 | Mongo Deep dive, Assignments
 - [ ] SS 4.4 | Notes for 4.1
 - [ ] SS 4.5 | Notes for 4.2
 
-## Week 5
+## Week 5 (2 lectures)
 - [ ] SS 5.1 | React Foundations
 - [ ] SS 5.2 | React Project (Todo app) (Reupload)
 - [ ] SS 5.3 | Notes for 5.1
 - [ ] SS 5.4 | Notes for 5.2
 
-## Week 6
+## Week 6 (2 lectures)
 - [ ] SS 6.1 | React hooks
 - [ ] SS 6.2 | useEffect, useMemo, useCallback
 - [ ] SS 6.3 | React features with examples
@@ -113,14 +113,14 @@
 - [ ] SS 6.5 | Notes for 6.1
 - [ ] SS 6.6 | Notes for 6.2
 
-## Week 7
+## Week 7 (3 lectures)
 - [ ] SS 7.1 | Context API, prop drilling
 - [ ] SS 7.2 | Context API, Recoil
 - [ ] SS 7.4 | Recoil Deep dive
 - [ ] Notes for 7.1
 - [ ] Notes for 7.2
 
-## Week 8
+## Week 8 (2 lectures)
 - [ ] SS 8.0 | Tailwind from Cohort 1
 - [ ] SS 8.1 | Tailwind
 - [ ]  8.2 | Recap everything, build PayTM
@@ -131,14 +131,14 @@
 - [ ] Notes for 8.3
 - [ ] Notes for 8.4
 
-## Week 9
+## Week 9 (2 lectures)
 - [ ] SS 9.1 | Custom hooks
 - [ ] SS 9.2 | Typescript Intro
 - [ ] SS 9.3 | Generics, enums, imports, exports
 - [ ] Notes for 9.1
 - [ ] Notes for 9.2
 
-## Week 10
+## Week 10 (2 lectures)
 - [ ] 10.0.1 | Cohort 1 Postgres video
 - [ ] 10.0.2 | Cohort 1 Prisma Video
 - [ ] 10.1 | Cohort 2 Postgres
@@ -146,12 +146,12 @@
 - [ ] 10.1 Notes
 - [ ] 10.2 Notes
 
-## Week 11
+## Week 11 (2 lectures)
 - [ ] 11.1 | Serverless Fns
 - [ ] 11.2 | AWS Deployments
 - [ ] 11.3 | Certificate management and AWS Revision
 
-## Week 12
+## Week 12 (4.5 lectures)
 - [ ] 12.1 | Deploying Frontends on AWS
 - [ ] 12.2 | Advance Typescript APIs
 - [ ] Cohort1-Deploying Npm Packages, Intro To Monorepos
@@ -165,14 +165,14 @@
 - [ ] 12.5 Notes
 - [ ] 12.6 Notes
 
-## Week 13
+## Week 13 (2 lectures)
 - [ ] 13.1 | Project #1
 - [ ] 13.2 | AMA
 - [ ] 13.3 | Backend of Medium
 - [ ] 13.4 | Frontend of Medium
 - [ ] 13.1 Notes
 
-## Week 14
+## Week 14 (2 lectures)
 - [ ] SS 14.1 | Intro to NextJS
 - [ ] SS 14.2 | NextJS Backend
 - [ ] SS 14.3 | Next.js Backend (Offline video)
@@ -180,7 +180,7 @@
 - [ ] 14.2 Notes
 - [ ] 14.3 Notes
 
-## Week 15
+## Week 15 (2.5 lectures)
 - [ ] 15.1 | Docker Intro
 - [ ] 15.2 | Docker 2
 - [ ] 15.3 | docker-compose, push and exec
@@ -190,17 +190,19 @@
 - [ ] 15.3 Notes
 - [ ] 15.4 Notes
 
-## Week 16
+## Week 16 (2 lectures)
 - [ ] 16.1 | Monorepo part 1
 - [ ] 16.2 | Monorepo part 2
 - [ ] 16.1 Notes
 - [ ] 16.2 Notes
 
-## Week 16 Offline
+## Week 16 Offline (2 lectures)
 - [ ] SS 16.2.1 | Auth using cookies
 - [ ] SS 16.2.2 | NextAuth
 - [ ] 16.2.1 Notes
 - [ ] 16.2.2 Notes
+______________________________________________
+DO TILL HERE BEFORE STARTING PROJECT
 
 ## Week 17
 - [ ] 17.1 | PayTM Monorepo part 1
@@ -214,6 +216,11 @@
 - [ ] 18.2 | CI/CD
 - [ ] 18.1 Notes
 - [ ] 18.2 Notes
+
+END OF PROJECT
+__________________________________________
+THIS SECTION IS TO BE DONE LATER : SENIOR ENGINEER SECTION
+
 
 ## Week 19
 - [ ] SS 19.0.1 | Middlewares in Next.js
