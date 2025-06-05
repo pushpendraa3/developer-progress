@@ -51,7 +51,7 @@ This guide explores practical ways for developers in India to significantly impr
 
 ---
 
-### 🔹 5. UI Library for Animated Components (based on shadcn)
+### 🔹 5. UI Library for Animated Components (based on shadcn) 
 
 - **Concept**: Build a developer-friendly animated UI component library using `shadcn/ui` and Tailwind CSS.
 - **Features**:
@@ -60,6 +60,7 @@ This guide explores practical ways for developers in India to significantly impr
   - Integrated with Storybook for previews
 - **Reference**: [HeroIcons](https://heroicons.com) or [shadcn/ui](https://ui.shadcn.dev)
 - **Potential**: Gain GitHub stars, freelance gigs, or convert into a paid UI kit.
+- shreyansh coding school frontend domination course for animations
 
 ---
 
