@@ -14,7 +14,7 @@ This guide explores practical ways for developers in India to significantly impr
   - Basic **Finance** knowledge (perpetual futures, AMMs, leverage, etc.)
   - Deep **Web3.0** expertise (smart contracts, Solana, DeFi tools)
 - **Use Case**: Can serve as a strong portfolio piece for getting hired at a Solana-based DeFi company.
-
+(https://github.com/Bifrost-Technologies/Solnet.JupiterPerps) (https://github.com/topics/perps) (https://github.com/perpetual-protocol/perp-maker)
 ---
 
 ### 🔹 2. Sports Betting Platform – Opinion Markets
