@@ -92,4 +92,4 @@ This guide explores practical ways for developers in India to significantly impr
 The fastest way to stand out as a developer is by building *unique, technically challenging, and monetizable* products—then showcasing them via open source or startup projects. If you combine this with a plan to relocate or freelance internationally, your income potential can easily 5x–10x.
 This is from Harkirat Singh's youtube [super30.2 selection](https://www.youtube.com/watch?v=ikl4cVUcqto) [Project Ideas](https://www.youtube.com/watch?v=pXJ2qoGU88g)
 
-contributuion of the day: 4
+contributuion of the day: 5
