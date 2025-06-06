@@ -93,4 +93,4 @@ The fastest way to stand out as a developer is by building *unique, technically 
 This is from Harkirat Singh's youtube [super30.2 selection](https://www.youtube.com/watch?v=ikl4cVUcqto) [Project Ideas](https://www.youtube.com/watch?v=pXJ2qoGU88g)
 
 for keeping profile green
-contributuion of the day: 5
+contributuion of the day: 6
