@@ -25,14 +25,14 @@ Build frontend skills → backend skills → full-stack confidence → web3 tran
 - [x] Build: Random Color Generator  
 - [x] Build: Simple Calculator  
 - [x] Build: Tip Calculator  
-- [ ] Build: Form with JS Validation (email/password)  
+- [x] Build: Form with JS Validation (email/password)  
 - [x] Build: Accordion (Expand/Collapse Items)  
 - [ ] Build: Modal Popup  
 - [x] Build: Image Slider/Carousel  
-- [ ] Build: LocalStorage-based To-Do List  
+- [x] Build: LocalStorage-based To-Do List  
 - [ ] Build: Tabbed Interface (Profile, Settings, etc.)  
-- [ ] Build: Joke Generator using an API  
-- [ ] Reflect: Which 2 projects were hardest? Push to GitHub  
+- [x] Build: Joke Generator using an API  
+- [x] Reflect: Which 2 projects were hardest? Push to GitHub  
 - [ ] Build: Expense Tracker (JS + LocalStorage)  
 - [ ] Build: Weather App using OpenWeatherMap API  
 - [ ] Build: Responsive Navbar (Hamburger for mobile)  
@@ -52,6 +52,36 @@ Build frontend skills → backend skills → full-stack confidence → web3 tran
 - [ ] Build: Wallet Address Formatter  
 - [ ] Build: Fiat to Crypto Converter (CoinGecko API)  
 - [ ] Build: Transaction History Viewer (mock data)  
+
+## 🛠️ Level 3: Backend Basics (Node.js + Express + MongoDB) (Days 46–70)
+
+- [x] Install Node.js + Learn package.json, npm
+- [x] Build: Hello World Express App
+- [ ] Build: Simple REST API (/notes) with in-memory storage
+- [x] Learn: Express Router + Middleware (logger, errors)
+- [ ] Build: Static server for frontend HTML/CSS from backend
+- [ ] Build: Notes API with MongoDB (Mongoose)
+- [ ] Push: Your first backend app to GitHub
+- [ ] Build: Book Library API (CRUD + search)
+- [ ] Add: Error handling & status codes
+- [x] Test APIs using Postman / Thunder Client
+- [ ] Build: Basic Blog API (posts + comments)
+- [ ] Add Pagination and Query Params to Blog API
+- [ ] Build: User Auth - Signup & Login Routes
+- [ ] Add JWT Authentication + Protect Routes
+- [ ] Build: Dashboard API (JWT auth + user-specific data)
+- [ ] Connect: Frontend (React) to backend (Axios)
+- [ ] Build: Frontend UI for Notes App
+- [ ] Add: Create, Read, Delete Notes
+- [ ] Polish UI, auth guard routes
+- [ ] Deploy backend to Render or Cyclic
+- [ ] Deploy frontend to Netlify/Vercel
+- [ ] Build: Full Task Manager (React + Express + MongoDB + Auth)
+- [ ] Add: Update task, delete task, mark complete
+- [ ] Test & deploy the full-stack Task Manager
+- [ ] Build: CoinGecko Crypto Price Tracker API
+
+---
 
 ## ⚛️ Level 2: Intermediate Frontend + React (Days 31–45)
 
@@ -75,35 +105,7 @@ Build frontend skills → backend skills → full-stack confidence → web3 tran
 
 ---
 
-## 🛠️ Level 3: Backend Basics (Node.js + Express + MongoDB) (Days 46–70)
 
-- [ ] Install Node.js + Learn package.json, npm
-- [ ] Build: Hello World Express App
-- [ ] Build: Simple REST API (/notes) with in-memory storage
-- [ ] Learn: Express Router + Middleware (logger, errors)
-- [ ] Build: Static server for frontend HTML/CSS from backend
-- [ ] Build: Notes API with MongoDB (Mongoose)
-- [ ] Push: Your first backend app to GitHub
-- [ ] Build: Book Library API (CRUD + search)
-- [ ] Add: Error handling & status codes
-- [ ] Test APIs using Postman / Thunder Client
-- [ ] Build: Basic Blog API (posts + comments)
-- [ ] Add Pagination and Query Params to Blog API
-- [ ] Build: User Auth - Signup & Login Routes
-- [ ] Add JWT Authentication + Protect Routes
-- [ ] Build: Dashboard API (JWT auth + user-specific data)
-- [ ] Connect: Frontend (React) to backend (Axios)
-- [ ] Build: Frontend UI for Notes App
-- [ ] Add: Create, Read, Delete Notes
-- [ ] Polish UI, auth guard routes
-- [ ] Deploy backend to Render or Cyclic
-- [ ] Deploy frontend to Netlify/Vercel
-- [ ] Build: Full Task Manager (React + Express + MongoDB + Auth)
-- [ ] Add: Update task, delete task, mark complete
-- [ ] Test & deploy the full-stack Task Manager
-- [ ] Build: CoinGecko Crypto Price Tracker API
-
----
 
 ## 🚀 Level 4: Final Full-Stack Projects & Launch (Days 71–90)
 
